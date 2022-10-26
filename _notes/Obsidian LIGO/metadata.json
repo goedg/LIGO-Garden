@@ -1,0 +1,26 @@
+[
+  {
+    "fileName": "Trillingen en golven",
+    "relativePath": "Trillingen en golven.md",
+    "links": [
+      {
+        "link": "Gert",
+        "relativePath": "Gert.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Gert",
+    "relativePath": "Gert.md",
+    "tags": [
+      "1f"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Trillingen en golven",
+        "link": "Gert",
+        "relativePath": "Trillingen en golven.md"
+      }
+    ]
+  }
+]
